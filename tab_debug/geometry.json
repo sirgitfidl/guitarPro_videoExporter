@@ -1,0 +1,3027 @@
+[
+  {
+    "sequential_measure": 1,
+    "musicxml_measure": "1",
+    "page": 1,
+    "system_on_page": 1,
+    "staff_left": 44,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      44,
+      76
+    ],
+    "right_bar_cluster": [
+      788,
+      790
+    ],
+    "play_left": 74.0,
+    "play_right": 765.05,
+    "crop_box": [
+      10,
+      227,
+      1546,
+      529
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 2,
+    "musicxml_measure": "2",
+    "page": 1,
+    "system_on_page": 1,
+    "staff_left": 44,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      788,
+      790
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 812.95,
+    "play_right": 1487.05,
+    "crop_box": [
+      10,
+      227,
+      1546,
+      529
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 3,
+    "musicxml_measure": "3",
+    "page": 1,
+    "system_on_page": 2,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 125.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      529,
+      1546,
+      695
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 4,
+    "musicxml_measure": "4",
+    "page": 1,
+    "system_on_page": 3,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      87
+    ],
+    "right_bar_cluster": [
+      1499,
+      1511
+    ],
+    "play_left": 109.0,
+    "play_right": 1476.05,
+    "crop_box": [
+      40,
+      695,
+      1546,
+      887
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 5,
+    "musicxml_measure": "5",
+    "page": 1,
+    "system_on_page": 4,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      887,
+      1546,
+      1092
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 6,
+    "musicxml_measure": "6",
+    "page": 1,
+    "system_on_page": 5,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      103
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1092,
+      1546,
+      1301
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 7,
+    "musicxml_measure": "7",
+    "page": 1,
+    "system_on_page": 6,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1301,
+      1546,
+      1506
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 8,
+    "musicxml_measure": "8",
+    "page": 1,
+    "system_on_page": 7,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 125.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1506,
+      1546,
+      1704
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 9,
+    "musicxml_measure": "9",
+    "page": 1,
+    "system_on_page": 8,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 125.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1704,
+      1546,
+      1905
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 10,
+    "musicxml_measure": "10",
+    "page": 1,
+    "system_on_page": 9,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1905,
+      1546,
+      2118
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 11,
+    "musicxml_measure": "11",
+    "page": 2,
+    "system_on_page": 1,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      105
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 100.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      0,
+      1546,
+      265
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 12,
+    "musicxml_measure": "12",
+    "page": 2,
+    "system_on_page": 2,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      105
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 100.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      265,
+      1546,
+      469
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 13,
+    "musicxml_measure": "13",
+    "page": 2,
+    "system_on_page": 3,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      469,
+      1546,
+      668
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 14,
+    "musicxml_measure": "14",
+    "page": 2,
+    "system_on_page": 4,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      668,
+      1546,
+      867
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 15,
+    "musicxml_measure": "15",
+    "page": 2,
+    "system_on_page": 5,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      867,
+      1546,
+      1065
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 16,
+    "musicxml_measure": "16",
+    "page": 2,
+    "system_on_page": 6,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1065,
+      1546,
+      1276
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 17,
+    "musicxml_measure": "17",
+    "page": 2,
+    "system_on_page": 7,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      87
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 109.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1276,
+      1546,
+      1491
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 18,
+    "musicxml_measure": "18",
+    "page": 2,
+    "system_on_page": 8,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1499,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1476.05,
+    "crop_box": [
+      40,
+      1491,
+      1546,
+      1706
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 19,
+    "musicxml_measure": "19",
+    "page": 2,
+    "system_on_page": 9,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1706,
+      1546,
+      1921
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 20,
+    "musicxml_measure": "20",
+    "page": 2,
+    "system_on_page": 10,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1921,
+      1546,
+      2136
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 21,
+    "musicxml_measure": "21",
+    "page": 3,
+    "system_on_page": 1,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      0,
+      1546,
+      275
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 22,
+    "musicxml_measure": "22",
+    "page": 3,
+    "system_on_page": 2,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      275,
+      1546,
+      485
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 23,
+    "musicxml_measure": "23",
+    "page": 3,
+    "system_on_page": 3,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      119
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 105.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      485,
+      1546,
+      683
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 24,
+    "musicxml_measure": "24",
+    "page": 3,
+    "system_on_page": 4,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      119
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 104.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      683,
+      1546,
+      891
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 25,
+    "musicxml_measure": "25",
+    "page": 3,
+    "system_on_page": 5,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      103
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      891,
+      1546,
+      1099
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 26,
+    "musicxml_measure": "26",
+    "page": 3,
+    "system_on_page": 6,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1099,
+      1546,
+      1307
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 27,
+    "musicxml_measure": "27",
+    "page": 3,
+    "system_on_page": 7,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1307,
+      1546,
+      1527
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 28,
+    "musicxml_measure": "28",
+    "page": 3,
+    "system_on_page": 8,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1528,
+      1546,
+      1749
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 29,
+    "musicxml_measure": "29",
+    "page": 3,
+    "system_on_page": 9,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1749,
+      1546,
+      1970
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 30,
+    "musicxml_measure": "30",
+    "page": 4,
+    "system_on_page": 1,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      103
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      0,
+      1546,
+      259
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 31,
+    "musicxml_measure": "31",
+    "page": 4,
+    "system_on_page": 2,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      103
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      259,
+      1546,
+      459
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 32,
+    "musicxml_measure": "32",
+    "page": 4,
+    "system_on_page": 3,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      459,
+      1546,
+      659
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 33,
+    "musicxml_measure": "33",
+    "page": 4,
+    "system_on_page": 4,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      659,
+      1546,
+      867
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 34,
+    "musicxml_measure": "34",
+    "page": 4,
+    "system_on_page": 5,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      867,
+      1546,
+      1074
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 35,
+    "musicxml_measure": "35",
+    "page": 4,
+    "system_on_page": 6,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1074,
+      1546,
+      1283
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 36,
+    "musicxml_measure": "36",
+    "page": 4,
+    "system_on_page": 7,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1283,
+      1546,
+      1503
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 37,
+    "musicxml_measure": "37",
+    "page": 4,
+    "system_on_page": 8,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1504,
+      1546,
+      1725
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 38,
+    "musicxml_measure": "38",
+    "page": 4,
+    "system_on_page": 9,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1725,
+      1546,
+      1933
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 39,
+    "musicxml_measure": "39",
+    "page": 4,
+    "system_on_page": 10,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      103
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1933,
+      1546,
+      2144
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 40,
+    "musicxml_measure": "40",
+    "page": 5,
+    "system_on_page": 1,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      103
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      0,
+      1546,
+      260
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 41,
+    "musicxml_measure": "41",
+    "page": 5,
+    "system_on_page": 2,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 104.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      260,
+      1546,
+      460
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 42,
+    "musicxml_measure": "42",
+    "page": 5,
+    "system_on_page": 3,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      87
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 109.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      460,
+      1546,
+      666
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 43,
+    "musicxml_measure": "43",
+    "page": 5,
+    "system_on_page": 4,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      104
+    ],
+    "right_bar_cluster": [
+      1499,
+      1511
+    ],
+    "play_left": 102.0,
+    "play_right": 1476.05,
+    "crop_box": [
+      40,
+      666,
+      1546,
+      873
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 44,
+    "musicxml_measure": "44",
+    "page": 5,
+    "system_on_page": 5,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      873,
+      1546,
+      1079
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 45,
+    "musicxml_measure": "45",
+    "page": 5,
+    "system_on_page": 6,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      104
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 102.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1079,
+      1546,
+      1293
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 46,
+    "musicxml_measure": "46",
+    "page": 5,
+    "system_on_page": 7,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      122
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 102.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1293,
+      1546,
+      1508
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 47,
+    "musicxml_measure": "47",
+    "page": 5,
+    "system_on_page": 8,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      121
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 296.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1508,
+      1546,
+      1722
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 48,
+    "musicxml_measure": "48",
+    "page": 5,
+    "system_on_page": 9,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      115
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 113.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1722,
+      1546,
+      1941
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 49,
+    "musicxml_measure": "49",
+    "page": 6,
+    "system_on_page": 1,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      104
+    ],
+    "right_bar_cluster": [
+      1499,
+      1511
+    ],
+    "play_left": 102.0,
+    "play_right": 1476.05,
+    "crop_box": [
+      40,
+      0,
+      1546,
+      283
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 50,
+    "musicxml_measure": "50",
+    "page": 6,
+    "system_on_page": 2,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      104
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 102.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      283,
+      1546,
+      489
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 51,
+    "musicxml_measure": "51",
+    "page": 6,
+    "system_on_page": 3,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 125.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      489,
+      1546,
+      699
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 52,
+    "musicxml_measure": "52",
+    "page": 6,
+    "system_on_page": 4,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 125.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      699,
+      1546,
+      920
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 53,
+    "musicxml_measure": "53",
+    "page": 6,
+    "system_on_page": 5,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      920,
+      1546,
+      1131
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 54,
+    "musicxml_measure": "54",
+    "page": 6,
+    "system_on_page": 6,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1131,
+      1546,
+      1339
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 55,
+    "musicxml_measure": "55",
+    "page": 6,
+    "system_on_page": 7,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1339,
+      1546,
+      1547
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 56,
+    "musicxml_measure": "56",
+    "page": 6,
+    "system_on_page": 8,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1547,
+      1546,
+      1755
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 57,
+    "musicxml_measure": "57",
+    "page": 6,
+    "system_on_page": 9,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1755,
+      1546,
+      1975
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 58,
+    "musicxml_measure": "58",
+    "page": 7,
+    "system_on_page": 1,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      0,
+      1546,
+      269
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 59,
+    "musicxml_measure": "59",
+    "page": 7,
+    "system_on_page": 2,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      269,
+      1546,
+      477
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 60,
+    "musicxml_measure": "60",
+    "page": 7,
+    "system_on_page": 3,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      103
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      477,
+      1546,
+      675
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 61,
+    "musicxml_measure": "61",
+    "page": 7,
+    "system_on_page": 4,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      103
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      675,
+      1546,
+      867
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 62,
+    "musicxml_measure": "62",
+    "page": 7,
+    "system_on_page": 5,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      115
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 109.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      867,
+      1546,
+      1054
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 63,
+    "musicxml_measure": "63",
+    "page": 7,
+    "system_on_page": 6,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      104
+    ],
+    "right_bar_cluster": [
+      1499,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1476.05,
+    "crop_box": [
+      40,
+      1054,
+      1546,
+      1239
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 64,
+    "musicxml_measure": "64",
+    "page": 7,
+    "system_on_page": 7,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      104
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1239,
+      1546,
+      1423
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 65,
+    "musicxml_measure": "65",
+    "page": 7,
+    "system_on_page": 8,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 125.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1423,
+      1546,
+      1617
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 66,
+    "musicxml_measure": "66",
+    "page": 7,
+    "system_on_page": 9,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 126.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1617,
+      1546,
+      1817
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 67,
+    "musicxml_measure": "67",
+    "page": 7,
+    "system_on_page": 10,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1817,
+      1546,
+      2028
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 68,
+    "musicxml_measure": "68",
+    "page": 8,
+    "system_on_page": 1,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 99.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      0,
+      1546,
+      259
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 69,
+    "musicxml_measure": "69",
+    "page": 8,
+    "system_on_page": 2,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 100.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      259,
+      1546,
+      466
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 70,
+    "musicxml_measure": "70",
+    "page": 8,
+    "system_on_page": 3,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      119
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 115.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      466,
+      1546,
+      672
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 71,
+    "musicxml_measure": "71",
+    "page": 8,
+    "system_on_page": 4,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 100.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      672,
+      1546,
+      881
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 72,
+    "musicxml_measure": "72",
+    "page": 8,
+    "system_on_page": 5,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      119
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 104.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      881,
+      1546,
+      1096
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 73,
+    "musicxml_measure": "73",
+    "page": 8,
+    "system_on_page": 6,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      107
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 100.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1096,
+      1546,
+      1303
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 74,
+    "musicxml_measure": "74",
+    "page": 8,
+    "system_on_page": 7,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      105
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 101.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1303,
+      1546,
+      1517
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 75,
+    "musicxml_measure": "75",
+    "page": 8,
+    "system_on_page": 8,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      107
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 100.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1518,
+      1546,
+      1730
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 76,
+    "musicxml_measure": "76",
+    "page": 8,
+    "system_on_page": 9,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 100.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1730,
+      1546,
+      1929
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 77,
+    "musicxml_measure": "77",
+    "page": 8,
+    "system_on_page": 10,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 99.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1929,
+      1546,
+      2140
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 78,
+    "musicxml_measure": "78",
+    "page": 9,
+    "system_on_page": 1,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      119
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 116.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      0,
+      1546,
+      275
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 79,
+    "musicxml_measure": "79",
+    "page": 9,
+    "system_on_page": 2,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 100.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      275,
+      1546,
+      483
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 80,
+    "musicxml_measure": "80",
+    "page": 9,
+    "system_on_page": 3,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      119
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 105.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      483,
+      1546,
+      703
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 81,
+    "musicxml_measure": "81",
+    "page": 9,
+    "system_on_page": 4,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      711,
+      1546,
+      936
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 82,
+    "musicxml_measure": "82",
+    "page": 9,
+    "system_on_page": 5,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      105
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 101.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      936,
+      1546,
+      1145
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 83,
+    "musicxml_measure": "83",
+    "page": 9,
+    "system_on_page": 6,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1145,
+      1546,
+      1349
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 84,
+    "musicxml_measure": "84",
+    "page": 9,
+    "system_on_page": 7,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      87
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 115.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1349,
+      1546,
+      1560
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 85,
+    "musicxml_measure": "85",
+    "page": 9,
+    "system_on_page": 8,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1499,
+      1511
+    ],
+    "play_left": 104.0,
+    "play_right": 1476.05,
+    "crop_box": [
+      40,
+      1561,
+      1546,
+      1768
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 86,
+    "musicxml_measure": "86",
+    "page": 9,
+    "system_on_page": 9,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1768,
+      1546,
+      1973
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 87,
+    "musicxml_measure": "87",
+    "page": 10,
+    "system_on_page": 1,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 105.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      0,
+      1546,
+      253
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 88,
+    "musicxml_measure": "88",
+    "page": 10,
+    "system_on_page": 2,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      253,
+      1546,
+      429
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 89,
+    "musicxml_measure": "89",
+    "page": 10,
+    "system_on_page": 3,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      87
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 109.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      429,
+      1546,
+      618
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 90,
+    "musicxml_measure": "90",
+    "page": 10,
+    "system_on_page": 4,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      104
+    ],
+    "right_bar_cluster": [
+      1499,
+      1511
+    ],
+    "play_left": 102.0,
+    "play_right": 1476.05,
+    "crop_box": [
+      40,
+      618,
+      1546,
+      824
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 91,
+    "musicxml_measure": "91",
+    "page": 10,
+    "system_on_page": 5,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      824,
+      1546,
+      1031
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 92,
+    "musicxml_measure": "92",
+    "page": 10,
+    "system_on_page": 6,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      104
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 102.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1031,
+      1546,
+      1245
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 93,
+    "musicxml_measure": "93",
+    "page": 10,
+    "system_on_page": 7,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      122
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 102.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1245,
+      1546,
+      1459
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 94,
+    "musicxml_measure": "94",
+    "page": 10,
+    "system_on_page": 8,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      121
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 296.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1459,
+      1546,
+      1673
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 95,
+    "musicxml_measure": "95",
+    "page": 10,
+    "system_on_page": 9,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      115
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 113.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1673,
+      1546,
+      1892
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 96,
+    "musicxml_measure": "96",
+    "page": 10,
+    "system_on_page": 10,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      104
+    ],
+    "right_bar_cluster": [
+      1499,
+      1511
+    ],
+    "play_left": 102.0,
+    "play_right": 1476.05,
+    "crop_box": [
+      40,
+      1894,
+      1546,
+      2119
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 97,
+    "musicxml_measure": "97",
+    "page": 11,
+    "system_on_page": 1,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      104
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 102.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      0,
+      1546,
+      283
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 98,
+    "musicxml_measure": "98",
+    "page": 11,
+    "system_on_page": 2,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 129.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      283,
+      1546,
+      497
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 99,
+    "musicxml_measure": "99",
+    "page": 11,
+    "system_on_page": 3,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 129.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      497,
+      1546,
+      703
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 100,
+    "musicxml_measure": "100",
+    "page": 11,
+    "system_on_page": 4,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 98.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      703,
+      1546,
+      913
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 101,
+    "musicxml_measure": "101",
+    "page": 11,
+    "system_on_page": 5,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      126
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 113.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      924,
+      1546,
+      1159
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 102,
+    "musicxml_measure": "102",
+    "page": 11,
+    "system_on_page": 6,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      111
+    ],
+    "right_bar_cluster": [
+      1499,
+      1511
+    ],
+    "play_left": 110.0,
+    "play_right": 1476.05,
+    "crop_box": [
+      40,
+      1161,
+      1546,
+      1381
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 103,
+    "musicxml_measure": "103",
+    "page": 11,
+    "system_on_page": 7,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      111
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 122.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1381,
+      1546,
+      1588
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 104,
+    "musicxml_measure": "104",
+    "page": 11,
+    "system_on_page": 8,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      112
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 339.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1588,
+      1546,
+      1799
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 105,
+    "musicxml_measure": "105",
+    "page": 11,
+    "system_on_page": 9,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      87
+    ],
+    "right_bar_cluster": [
+      1499,
+      1511
+    ],
+    "play_left": 109.0,
+    "play_right": 1476.05,
+    "crop_box": [
+      40,
+      1801,
+      1546,
+      2026
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 106,
+    "musicxml_measure": "106",
+    "page": 12,
+    "system_on_page": 1,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      87
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 109.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      0,
+      1546,
+      269
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 107,
+    "musicxml_measure": "107",
+    "page": 12,
+    "system_on_page": 2,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      109
+    ],
+    "right_bar_cluster": [
+      1499,
+      1511
+    ],
+    "play_left": 106.0,
+    "play_right": 1476.05,
+    "crop_box": [
+      40,
+      269,
+      1546,
+      477
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 108,
+    "musicxml_measure": "108",
+    "page": 12,
+    "system_on_page": 3,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 106.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      477,
+      1546,
+      685
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 109,
+    "musicxml_measure": "109",
+    "page": 12,
+    "system_on_page": 4,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      109
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 106.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      685,
+      1546,
+      892
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 110,
+    "musicxml_measure": "110",
+    "page": 12,
+    "system_on_page": 5,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      110
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 106.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      892,
+      1546,
+      1091
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 111,
+    "musicxml_measure": "111",
+    "page": 12,
+    "system_on_page": 6,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      110
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 106.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1091,
+      1546,
+      1290
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 112,
+    "musicxml_measure": "112",
+    "page": 12,
+    "system_on_page": 7,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 106.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1290,
+      1546,
+      1494
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 113,
+    "musicxml_measure": "113",
+    "page": 12,
+    "system_on_page": 8,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      110
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 106.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1494,
+      1546,
+      1703
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 114,
+    "musicxml_measure": "114",
+    "page": 12,
+    "system_on_page": 9,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 106.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1703,
+      1546,
+      1913
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 115,
+    "musicxml_measure": "115",
+    "page": 12,
+    "system_on_page": 10,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 133.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      1913,
+      1546,
+      2130
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 116,
+    "musicxml_measure": "116",
+    "page": 13,
+    "system_on_page": 1,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 133.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      0,
+      1546,
+      265
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 117,
+    "musicxml_measure": "117",
+    "page": 13,
+    "system_on_page": 2,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 106.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      265,
+      1546,
+      475
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 118,
+    "musicxml_measure": "118",
+    "page": 13,
+    "system_on_page": 3,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      110
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 106.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      475,
+      1546,
+      684
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 119,
+    "musicxml_measure": "119",
+    "page": 13,
+    "system_on_page": 4,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 106.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      684,
+      1546,
+      894
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 120,
+    "musicxml_measure": "120",
+    "page": 13,
+    "system_on_page": 5,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1510,
+      1511
+    ],
+    "play_left": 133.0,
+    "play_right": 1487.05,
+    "crop_box": [
+      40,
+      894,
+      1546,
+      1101
+    ],
+    "spacing": 17.0
+  },
+  {
+    "sequential_measure": 121,
+    "musicxml_measure": "121",
+    "page": 13,
+    "system_on_page": 6,
+    "staff_left": 74,
+    "staff_right": 1511,
+    "left_bar_cluster": [
+      74,
+      76
+    ],
+    "right_bar_cluster": [
+      1499,
+      1511
+    ],
+    "play_left": 135.0,
+    "play_right": 1476.05,
+    "crop_box": [
+      40,
+      1101,
+      1546,
+      1315
+    ],
+    "spacing": 17.0
+  }
+]
