@@ -110,6 +110,7 @@ class RenderedMeasure:
     play_right: float
     play_top: float
     play_bottom: float
+    spacing_px: float
     note_breakpoints: list[tuple[float, float]]
 
 
@@ -622,7 +623,12 @@ def boundary_clusters(
 ) -> tuple[tuple[int, int], tuple[int, int]]:
     width = staff_right - staff_left
     near = max(spacing * 7.0, width * 0.10)
-    cluster_gap = spacing * 2.8
+    # Keep this tight: genuine double-barline / repeat-dot strokes sit within
+    # about one spacing-unit of the anchor barline. A wider gap risks
+    # absorbing an unrelated nearby glyph (e.g. a brush/strum arrow or a
+    # chord's own fret numbers) into the "furniture" cluster, which then
+    # causes the first note's play_left to be skipped past its true start.
+    cluster_gap = spacing * 1.0
 
     # Left: anchor on the earliest strong vertical stroke near the staff start,
     # then absorb neighboring strokes belonging to double/repeat barlines.
@@ -769,7 +775,16 @@ def detect_note_glyph_runs(
             idx = np.flatnonzero(extra_ink[effective_left:search_right])
             if len(idx):
                 run_start, run_end = grouped_runs((effective_left + i) for i in idx)[0]
-                if tallest_blob(run_start, run_end) > spacing * 1.3:
+                run_width = run_end - run_start + 1
+                # A genuine time-signature glyph is a narrow stack of digits
+                # (roughly a couple of numerals wide at most), tall only
+                # because the numerator/denominator span most of the staff
+                # height. A chord's own connecting stem is just as tall but,
+                # thanks to Guitar Pro staggering each string's fret digit
+                # horizontally, considerably wider. Requiring the run to
+                # also be narrow keeps a genuinely first-note chord from
+                # being mistaken for the time signature and skipped.
+                if tallest_blob(run_start, run_end) > spacing * 1.3 and run_width <= spacing * 2.2:
                     effective_left = run_end + 1
 
     note_cols = np.zeros(w, dtype=bool)
@@ -1359,16 +1374,17 @@ def prepare_measure_canvas(
         (1.0, play_right),
     ]
 
-    # Limit the playhead's vertical extent to the staff itself plus roughly
-    # one string-spacing above/below (about the height a barline extends past
-    # the staff), instead of spanning the whole frame.
+    # Limit the playhead's vertical extent to the staff itself: the line runs
+    # from just above the top string line down to the bottom string line,
+    # matching a clean NLE-style playhead (e.g. Final Cut Pro) rather than
+    # overshooting past the staff on both ends.
     spacing_px = geom.spacing * scale
     top_y = oy + (geom.string_ys[0] - y0) * scale
     bottom_y = oy + (geom.string_ys[-1] - y0) * scale
-    play_top = top_y - spacing_px
-    play_bottom = bottom_y + spacing_px
+    play_top = top_y - spacing_px * 0.18
+    play_bottom = bottom_y
 
-    return RenderedMeasure(np.array(canvas), play_left, play_right, play_top, play_bottom, note_breakpoints)
+    return RenderedMeasure(np.array(canvas), play_left, play_right, play_top, play_bottom, spacing_px, note_breakpoints)
 
 
 def build_timeline(measures: list[MeasureTiming], sequence: list[int], lead_in: float, tail: float):
@@ -1403,6 +1419,35 @@ def interp_breakpoints(breakpoints: list[tuple[float, float]], elapsed: float) -
         return x0
     frac = max(0.0, min(1.0, (elapsed - t0) / (t1 - t0)))
     return x0 + frac * (x1 - x0)
+
+
+def draw_playhead_marker(
+    draw: ImageDraw.ImageDraw,
+    x: float,
+    tip_y: float,
+    spacing_px: float,
+    fill: tuple[int, int, int, int],
+) -> None:
+    """Draw a small flag-shaped marker whose point sits at (x, tip_y), the top
+    of the playhead line -- similar to a Final Cut Pro-style playhead handle
+    sitting just above the timeline content."""
+    half_w = spacing_px * 0.55
+    corner_cut = half_w * 0.35
+    rect_h = spacing_px * 0.55
+    tip_h = spacing_px * 0.35
+    rect_top = tip_y - tip_h - rect_h
+    rect_bottom = tip_y - tip_h
+
+    points = [
+        (x - half_w + corner_cut, rect_top),
+        (x + half_w - corner_cut, rect_top),
+        (x + half_w, rect_top + corner_cut),
+        (x + half_w, rect_bottom),
+        (x, tip_y),
+        (x - half_w, rect_bottom),
+        (x - half_w, rect_top + corner_cut),
+    ]
+    draw.polygon(points, fill=fill)
 
 
 def render_video(
@@ -1477,6 +1522,7 @@ def render_video(
             draw = ImageDraw.Draw(frame_img, "RGBA")
             x = interp_breakpoints(base.note_breakpoints, elapsed)
             draw.line((x, base.play_top, x, base.play_bottom), fill=ph_rgba, width=playhead_width)
+            draw_playhead_marker(draw, x, base.play_top, base.spacing_px, ph_rgba)
             proc.stdin.write(frame_img.tobytes())
 
             if frame_no % max(1, int(fps * 5)) == 0:
@@ -1532,7 +1578,7 @@ def build_arg_parser() -> argparse.ArgumentParser:
     p.add_argument("--foreground-color", default="white", help="Ink color used when inversion is enabled (the default)")
     p.add_argument("--playhead-color", default="#E53935")
     p.add_argument("--playhead-width", type=int, default=6)
-    p.add_argument("--playhead-opacity", type=int, default=230)
+    p.add_argument("--playhead-opacity", type=int, default=128)
     p.add_argument("--lead-in", type=float, default=0.0, help="Seconds before measure 1 starts")
     p.add_argument("--tail", type=float, default=0.0, help="Seconds to hold after the last measure")
     p.add_argument("--audio", type=Path, help="Optional audio file to mux for a preview")
