@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Debug output
+tab_debug/
+
+# Keep folder structure, ignore contents
+svg/*
+!svg/.gitkeep
+xml/*
+!xml/.gitkeep
+
+# Output / generated media
+*.mp4
+*.mov
+*.avi
+*.mkv
