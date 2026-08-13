@@ -1585,7 +1585,7 @@ def build_arg_parser() -> argparse.ArgumentParser:
     p.add_argument("--no-expand-repeats", action="store_true", help="Play written measures once, ignoring repeat navigation")
 
     # Detection knobs. Defaults are intentionally conservative.
-    p.add_argument("--svg-scale", type=float, default=2.0, help="Raster scale used only for SVG analysis/rendering")
+    p.add_argument("--svg-scale", type=float, default=4.0, help="Raster scale used only for SVG analysis/rendering")
     p.add_argument("--ink-threshold", type=int, default=205, help="0-255; pixels darker than this count as ink")
     p.add_argument("--line-row-fraction", type=float, default=0.20, help="Minimum page-width fraction for a staff-line candidate")
     p.add_argument("--spacing-tolerance", type=float, default=0.20, help="Allowed relative variation between tab string-line spacing")
